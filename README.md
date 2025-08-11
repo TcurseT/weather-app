@@ -20,18 +20,3 @@ I used the OpenWeather API to fetch real-time weather data.
 * Shows an alert if the city name does not match API data.  
 * Clean and user-friendly UI/UX design.  
 
----
-
-### Snapshots  
-
-* **Default View**  
-<img src="ss/demo1.png" width="100%">
-
-* **When a valid city is entered**  
-<img src="ss/demo.png" width="100%">
-
-* **When input is empty**  
-<img src="ss/empty.png" width="100%">
-
-* **When city is not found**  
-<img src="ss/bad.png" width="100%">
