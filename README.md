@@ -1,15 +1,12 @@
 # Weather Web App
 
-## Created by **TcurseT**  
 I used the OpenWeather API to fetch real-time weather data.  
 
 ### This web project is built using HTML, CSS, and JavaScript.  
 
 #### Live Demo Links  
 
-🌐 **GitHub Pages**: [https://tcurset.github.io/Weather_webApp/](https://tcurset.github.io/Weather_webApp/)  
-
-🚀 **Netlify**: [https://tcurset-weather.netlify.app/](https://tcurset-weather.netlify.app/)  
+**Netlify**: [Live Project](https://harmonious-panda-76447a.netlify.app/)  
 
 ---
 
